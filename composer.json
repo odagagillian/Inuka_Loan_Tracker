@@ -1,0 +1,15 @@
+{
+    "name": "gillian/inuka-loan-app",
+    "description": "A PHP and MySQL loan repayment tracking system",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Gillian Abuya Odaga",
+            "email": "odagagillian60@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^13.4"
+    }
+}

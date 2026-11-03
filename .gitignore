@@ -1,0 +1,16 @@
+# Composer dependencies
+/vendor/
+
+# Environment variables and sensitive configuration
+.env
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
