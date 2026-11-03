@@ -24,7 +24,6 @@ The system allows users to register clients, create loans, record repayments, vi
 - MySQL
 - HTML
 - CSS
-- JavaScript
 - PDO for database access
 - PHPUnit for automated testing
 - Composer for dependency management
